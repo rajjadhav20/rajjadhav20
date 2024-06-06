@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Building my portfolio website and expanding my knowledge of React.js.**
+- 🔭 I’m currently working on **Building a Chat Application and expanding my knowledge of React.js.**
 
 - 🌱 I’m currently learning **Redux for state management in React applications.**
 
