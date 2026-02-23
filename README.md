@@ -2,18 +2,19 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 
+💼 Current Role: Working as a CMF/MES Modeler, focusing on designing and implementing logic for Critical Manufacturing Execution Systems.
 
-- 🔭 I’m currently working on **Building a Chat Application and expanding my knowledge of React.js.**
+🚀 Past Experience: Transitioned from a Full-Stack Developer background with a strong foundation in the MERN Stack.
 
-- 🌱 I’m currently learning **Redux for state management in React applications.**
+🔭 Currently Building: A sophisticated Real-time Chat Application to deepen my mastery of Socket.io and React hooks.
 
-- 👯 I’m looking to collaborate on **Building web applications using the MERN stack and Open-source projects related to web development.**
+🌱 Learning Lab: Currently diving deep into Redux Toolkit for robust state management and exploring advanced Node.js architecture.
 
-- 🤝 I’m looking for help with **Deepening my understanding of advanced concepts in React.js and Node.js.**
+👯 Collaboration: Open to contributing to Open-source MERN projects or any high-performance web applications.
 
-- 💬 Ask me about **Anything related to web development, especially MERN stack!**
+💬 Ask me about: JavaScript, React, Backend Architecture, or how MES modeling optimizes manufacturing workflows.
 
-- 📫 How to reach me **rajsatishjadhav9@gmail.com**
+📫 Reach me at: rajsatishjadhav9@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
