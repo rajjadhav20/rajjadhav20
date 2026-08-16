@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/raj-jadhav-profile-banner.png" alt="Raj Jadhav - Full-Stack Developer and MES Modeler" width="100%" />
+  <img src="./raj-jadhav-profile-banner.png" alt="Raj Jadhav - Full-Stack Developer and MES Modeler" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raj Jadhav</h1>
