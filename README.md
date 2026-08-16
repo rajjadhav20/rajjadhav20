@@ -1,12 +1,12 @@
-<!-- <p align="center">
+<p align="center">
   <img src="./raj-jadhav-profile-banner.png" alt="Raj Jadhav - Full-Stack Developer and MES Modeler" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Raj Jadhav</h1>
+<!-- <h1 align="center">Hi 👋, I'm Raj Jadhav</h1>
 
 <h3 align="center">
   Full-Stack Developer & Manufacturing Execution Systems (MES) Modeler
-</h3> -->
+</h3>  -->
 
 <p align="center">
   <a href="https://github.com/rajjadhav20">
